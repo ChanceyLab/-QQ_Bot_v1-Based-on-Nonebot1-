@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Bot_3",
+    "\\Bot_3\\awesome",
+    "\\Bot_3\\awesome\\plugins",
+    "\\Bot_3\\awesome\\plugins\\weather"
+  ],
+  "SelectedNode": "\\Bot_3\\awesome\\plugins\\weather\\__init__.py",
+  "PreviewInSolutionExplorer": false
+}
